@@ -24,7 +24,8 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 📷 Screenshots
 
-> *(Add screenshots of your homepage and sections here)*
+<img width="1916" height="867" alt="Screenshot 2025-07-12 000355" src="https://github.com/user-attachments/assets/70a6940f-4199-4662-bdee-5f70eaa31122" />
+
 
 ## 🔧 Setup Instructions
 
